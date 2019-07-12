@@ -5,10 +5,10 @@
  
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.o7planning</groupId>
-    <artifactId>SpringMVCSoConThuong</artifactId>
+    <artifactId>SoCongThuong</artifactId>
     <packaging>war</packaging>
     <version>1.0.0</version>
-    <name>SpringMVCSoConThuong Maven Webapp</name>
+    <name>SpringMVCSoCongThuong Maven Webapp</name>
     <url>http://maven.apache.org</url>
  
  
